@@ -113,4 +113,4 @@ function rezult(x, d) {
     return cnt;
   }
   console.log(rezult(12334,3));
-  ```
+  ```"# first-home.work.js" 
